@@ -1,7 +1,8 @@
 # ***When SMILES have Language*: Drug Classification using Text Classification Methods on Drug SMILES Strings**
 - **Authors:** Azmine Toushik Wasi, Šerbetar Karlo, Raima Islam, Taki Hasan Rafi, Dong-Kyu Chae
 - Accepted (***invited to present***) to the **The Second Tiny Papers Track at ICLR 2024**!
-- Read full paper in [arXiv](https://arxiv.org/abs/2403.12984).
+- arXiv: https://arxiv.org/abs/2403.12984
+- OpenReview: https://openreview.net/forum?id=VUYCyH8fCw&
 ---
 
 <p align="center">
